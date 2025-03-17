@@ -1,0 +1,1 @@
+export { IconsFinance } from "./IconsFinance";

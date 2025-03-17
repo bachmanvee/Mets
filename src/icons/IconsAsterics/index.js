@@ -1,0 +1,1 @@
+export { IconsAsterics } from "./IconsAsterics";

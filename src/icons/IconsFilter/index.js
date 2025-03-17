@@ -1,0 +1,1 @@
+export { IconsFilter } from "./IconsFilter";

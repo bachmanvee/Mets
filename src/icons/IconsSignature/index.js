@@ -1,0 +1,1 @@
+export { IconsSignature } from "./IconsSignature";

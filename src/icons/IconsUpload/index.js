@@ -1,0 +1,1 @@
+export { IconsUpload } from "./IconsUpload";

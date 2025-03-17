@@ -1,0 +1,1 @@
+export { IconsGrab } from "./IconsGrab";

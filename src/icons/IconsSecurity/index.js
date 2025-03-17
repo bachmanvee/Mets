@@ -1,0 +1,1 @@
+export { IconsSecurity } from "./IconsSecurity";

@@ -1,0 +1,11 @@
+:root {
+  --m3-elevation-light-3: 0px 1px 3px 0px rgba(0, 0, 0, 0.3), 0px 4px 8px 3px
+    rgba(0, 0, 0, 0.15);
+  --primitives-grey-grey-10: rgba(207, 209, 211, 1);
+  --primitives-grey-grey-20: rgba(134, 139, 144, 1);
+  --primitives-neutral-neutral: rgba(255, 255, 255, 1);
+  --primitives-primary-primary-90: rgba(4, 19, 10, 1);
+  --tokens-body-text: var(--primitives-primary-primary-90);
+  --tokens-light-grey: var(--primitives-grey-grey-10);
+  --tokens-white: var(--primitives-neutral-neutral);
+}

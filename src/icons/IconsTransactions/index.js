@@ -1,0 +1,1 @@
+export { IconsTransactions } from "./IconsTransactions";

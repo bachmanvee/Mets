@@ -1,0 +1,1 @@
+export { IconsVendor } from "./IconsVendor";

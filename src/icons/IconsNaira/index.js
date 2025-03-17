@@ -1,0 +1,1 @@
+export { IconsNaira } from "./IconsNaira";

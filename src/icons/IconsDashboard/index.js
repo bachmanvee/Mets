@@ -1,0 +1,1 @@
+export { IconsDashboard } from "./IconsDashboard";
